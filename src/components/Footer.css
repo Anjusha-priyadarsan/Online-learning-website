@@ -1,0 +1,41 @@
+.footer
+{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(8, 99, 113);
+    color: white;
+    padding: 50px;
+
+}
+.footer-para
+{
+    margin-top: 30px;
+}
+.box 
+{
+    margin-top: 30px;
+    
+}
+.social
+{
+    display: flex;
+    align-items: center;
+    justify-content: first baseline;
+    margin-top: 20px;
+    color: white;
+    
+}
+
+
+
+ .link:hover{
+    text-decoration: underline;
+ }
+
+ .btn:hover{
+    color:rgb(198, 167, 55);
+    transform: scale(1.1);
+    transition: .3s;
+    background-color: rgb(198, 167, 55);
+
+ }
